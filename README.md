@@ -1,4 +1,4 @@
-### Olá! Eu sou o Hugo Bezerra 👋
+### Hello! I'm Hugo Bezerra 👋
 
 <div>
   <a href="github.com/hugofigueiroa"></a>
